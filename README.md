@@ -1,2 +1,2 @@
-#Github Tutorial
+# Github Tutorial
 This repository documents review process of Git and GitHub. I practiced essential version control concepts such as repositories, commits, branches, merging, and remote collaboration to strengthen my development workflow. By regularly reviewing and applying these concepts through hands-on exercises, I gained a better understanding of managing code efficiently and collaborating on software projects.
